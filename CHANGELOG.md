@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-service-sid.
 
+## 0.1.1 (2026-09-22)
+
+### Bug Fixes
+
+-  Bump rimfrost-service-sid-openapi version ([17e1f](https://github.com/Forsakringskassan/rimfrost-service-sid/commit/17e1f9c1a1a2dfb) Lars Persson)  
+
 ## 0.1.0 (2026-08-17)
 
 ### Features
