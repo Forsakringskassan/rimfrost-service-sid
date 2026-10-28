@@ -2,6 +2,17 @@
 
 Changelog of rimfrost-service-sid.
 
+## 0.1.2 (2026-10-28)
+
+### Bug Fixes
+
+-  rename openapi artifact, update workflows to use permissions ([ee6d5](https://github.com/Forsakringskassan/rimfrost-service-sid/commit/ee6d50bb9fe211c) Ulf Slunga)  
+
+### Dependency updates
+
+- pin forsakringskassan/.github action to cbd74f1 ([f01f6](https://github.com/Forsakringskassan/rimfrost-service-sid/commit/f01f63a71c2e7c4) renovate[bot])  
+## rimfrost-1_2 (2026-09-22)
+
 ## 0.1.1 (2026-09-22)
 
 ### Bug Fixes
