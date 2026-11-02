@@ -2,6 +2,11 @@
 
 Changelog of rimfrost-service-sid.
 
+## 0.1.3 (2026-11-01)
+
+### Dependency updates
+
+- update forsakringskassan/.github digest to 625efb1 ([630d6](https://github.com/Forsakringskassan/rimfrost-service-sid/commit/630d6669f657034) renovate[bot])  
 ## 0.1.2 (2026-10-28)
 
 ### Bug Fixes
